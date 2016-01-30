@@ -1,0 +1,7 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Release\InlineILCompiler.exe.config
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Release\InlineILCompiler.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Release\InlineILCompiler.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\obj\Release\InlineILCompiler.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\obj\Release\InlineILCompiler.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Release\InlineILCompiler.exe.CodeAnalysisLog.xml
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Release\InlineILCompiler.exe.lastcodeanalysissucceeded

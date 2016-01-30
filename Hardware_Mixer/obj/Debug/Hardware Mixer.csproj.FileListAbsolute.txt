@@ -1,0 +1,51 @@
+C:\Users\Noah\Desktop\cscore-master\XAudio2Playback\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\XAudio2Playback\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\bin\Debug\cscore.snk
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\bin\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\bin\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\bin\Debug\CSCore.dll
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\bin\Debug\CSCore.pdb
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\obj\Debug\Hardware Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\bin\Debug\cscore.snk
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.pdb
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.dll
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.pdb
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\obj\Debug\Hardware Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\bin\Debug\cscore.snk
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.dll
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Hardware Mixer\obj\Debug\Hardware Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Test\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Test\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\obj\Debug\Hardware Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe.config
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\cscore.snk
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.dll
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.pdb
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe.config
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\obj\Debug\Hardware Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\cscore.snk
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.dll
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\CSCore.pdb
+C:\Users\Noah\Desktop\Test - Copy\Hardware Mixer\Hardware Mixer\bin\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\Hardware Mixer\Test\Hardware Mixer\Hardware Mixer\bin\Debug\HardwareMixerObj.pdb
+C:\Users\Noah\Desktop\HardwareMixer\Hardware_Mixer\bin\Debug\XAudio2Playback.exe.config
+C:\Users\Noah\Desktop\HardwareMixer\Hardware_Mixer\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\HardwareMixer\Hardware_Mixer\obj\Debug\XAudio2Playback.pdb

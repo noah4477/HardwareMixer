@@ -1,0 +1,11 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Debug\XAudio2Playback.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\cscore.snk
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\CSCore.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\CSCore.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Debug\CSCore.xml
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Debug\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\XAudio2Playback\obj\Debug\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\XAudio2Playback\obj\Debug\XAudio2Playback.pdb

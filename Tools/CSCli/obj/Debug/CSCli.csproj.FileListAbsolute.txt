@@ -1,0 +1,9 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\CSCli.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\CSCli.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\Mono.Cecil.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Debug\CSCli.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Debug\CSCli.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Debug\CSCli.pdb

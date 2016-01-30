@@ -1,0 +1,11 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\CSCli.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\CSCli.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\Mono.Cecil.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Release\CSCli.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Release\CSCli.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\obj\Release\CSCli.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\CSCli.exe.CodeAnalysisLog.xml
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\CSCli\bin\Release\CSCli.exe.lastcodeanalysissucceeded

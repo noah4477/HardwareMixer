@@ -1,0 +1,10 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\cscore.snk
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\CSCore.dll
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\CSCore.xml
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Release\XAudio2Playback.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Release\XAudio2Playback.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\obj\Release\XAudio2Playback.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\XAudio2Playback.exe.CodeAnalysisLog.xml
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Samples\XAudio2Playback\bin\Release\XAudio2Playback.exe.lastcodeanalysissucceeded

@@ -1,0 +1,2 @@
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\obj\Release\XAudio2Playback.exe
+G:\Files\Coding\Hardware Mixer\Hardware Mixer\obj\Release\XAudio2Playback.pdb

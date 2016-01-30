@@ -1,0 +1,6 @@
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Debug\InlineILCompiler.exe.config
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Debug\InlineILCompiler.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\bin\Debug\InlineILCompiler.pdb
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\obj\Debug\InlineILCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\obj\Debug\InlineILCompiler.exe
+C:\Users\Noah\Desktop\cscore-master\cscore-master\Tools\InlineILCompiler\InlineILCompiler\obj\Debug\InlineILCompiler.pdb
